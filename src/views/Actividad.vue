@@ -10,8 +10,8 @@
               img(src="@/assets/template/Seleccion_Multiple.svg", alt="Texto que describa la imagen")
         .col-12.col-md-8.col-lg-9
           .titulo-segundo
-            h2 Nombre de la Actividad
-          p.mb-4 Objetivo de la actividad
+            h2 Prueba de conocimientos sobre implementación del cable estructurado
+          p.mb-4 Validar el conocimiento adquirido sobre la implementación del cableado estructurado, las herramientas y mantenimiento. Esto se trabaja a partir de un conjunto de preguntas, con el propósito de buscar una dinámica de evaluar el aprendizaje desarrollado durante el componente.
           .tarjeta.actividad.p-3
             .row.justify-content-around.align-items-center            
               .col-sm.mb-3.mb-sm-0
