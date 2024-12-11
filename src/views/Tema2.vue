@@ -21,7 +21,7 @@
           .col-lg-auto.j1
             img.img-a.img-t(src='@/assets/curso/temas/19.png' alt='')
           .col.pt-lg-0.pt-md-4
-            p.mb-0 El cableado horizontal se refiere a la infraestructura de cableado que conecta los equipos de usuario final con los cuartos técnicos. Este cableado generalmente se extiende desde los paneles de parcheo en los cuartos técnicos hasta los puntos de conexión en las áreas de trabajo. El cableado vertical, por otro lado, conecta los cuartos técnicos con los equipos de entrada de servicios, como los routers y switches. Este cableado se utiliza para distribuir los servicios de red a lo largo del edificio. Ambos tipos de cableado deben cumplir con los estándares de rendimiento y calidad para asegurar una conexión de red eficiente y confiable.      
+            p.mb-0 El cableado horizontal se refiere a la infraestructura de cableado que conecta los equipos de usuario final con los cuartos técnicos. Este cableado generalmente se extiende desde los paneles de parcheo en los cuartos técnicos hasta los puntos de conexión en las áreas de trabajo. El cableado vertical, por otro lado, conecta los cuartos técnicos con los equipos de entrada de servicios, como los #[i routers] y #[i switches]. Este cableado se utiliza para distribuir los servicios de red a lo largo del edificio. Ambos tipos de cableado deben cumplir con los estándares de rendimiento y calidad para asegurar una conexión de red eficiente y confiable.      
       .col-lg-3.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/20.png' alt='')    
 
@@ -79,17 +79,17 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            span #[b Cables de Fibra Óptica:] Los cables de fibra óptica son comúnmente utilizados en el cableado vertical debido a su capacidad para soportar altas velocidades de transmisión de datos y su inmunidad a la interferencia electromagnética. Estos cables pueden transmitir datos a largas distancias sin degradación significativa de la señal.
+            span #[b Cables de Fibra Óptica:] los cables de fibra óptica son comúnmente utilizados en el cableado vertical debido a su capacidad para soportar altas velocidades de transmisión de datos y su inmunidad a la interferencia electromagnética. Estos cables pueden transmitir datos a largas distancias sin degradación significativa de la señal.
           hr
           li 
             .lista-ol--cuadro__vineta
               span 2
-            span #[b Cables de par trenzado de alta capacidad:] En algunos casos, cables de par trenzado de alta capacidad, como Cat6a o Cat7, también se utilizan en el cableado vertical para proporcionar una conexión de red robusta y confiable.
+            span #[b Cables de par trenzado de alta capacidad:] en algunos casos, cables de par trenzado de alta capacidad, como Cat6a o Cat7, también se utilizan en el cableado vertical para proporcionar una conexión de red robusta y confiable.
           hr 
           li 
             .lista-ol--cuadro__vineta
               span 3
-            span #[b Equipos de entrada de servicios:] Los equipos de entrada de servicios, como routers y switches, actúan como puntos de distribución centralizados para los servicios de red. Estos equipos deben estar diseñados para soportar altas velocidades de transmisión de datos y múltiples conexiones simultáneas.
+            span #[b Equipos de entrada de servicios:] los equipos de entrada de servicios, como #[i routers] y #[i switches], actúan como puntos de distribución centralizados para los servicios de red. Estos equipos deben estar diseñados para soportar altas velocidades de transmisión de datos y múltiples conexiones simultáneas.
           hr                     
 
     .row.justify-content-center
@@ -118,6 +118,15 @@
       .col-lg-4.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/24.png' alt='')                          
 
+
+    .row.justify-content-start.my-5
+      .col-auto
+        .list
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/icon.svg', alt='')
+          .list__txt.bgicon.text-white.p-0.px-4
+            h3.mb-1 Área de trabajo y cuartos técnicos
     .row.bg6.align-items-center
       .px-lg-5.px-4
         .bgw.brad.p-5.my-5
@@ -149,7 +158,7 @@
             .row.justify-content-center
               .col-lg-6.my-2
                 h5.mb-4 Cuartos Técnicos
-                p Los cuartos técnicos, también conocidos como cuartos de telecomunicaciones, albergan los equipos de red centralizados, como los switches, routers y paneles de parcheo. Estos cuartos deben estar diseñados para proporcionar un entorno seguro y controlado para los equipos de red, con sistemas de ventilación, control de temperatura y protección contra incendios.
+                p Los cuartos técnicos, también conocidos como cuartos de telecomunicaciones, albergan los equipos de red centralizados, como los #[i switches], #[i routers] y paneles de parcheo. Estos cuartos deben estar diseñados para proporcionar un entorno seguro y controlado para los equipos de red, con sistemas de ventilación, control de temperatura y protección contra incendios.
               .col-lg-5.my-2 
                 img.img-a.img-t(src='@/assets/curso/temas/29.png', alt='')     
 
@@ -169,7 +178,7 @@
           .col-lg-9.my-lg-0.my-3
             AcordionA(tipo="a" clase-tarjeta="tarjeta bg7")
               div(titulo="Equipos de red centralizados")
-                p Los cuartos técnicos mantienen equipos de red centralizados, como switches, routers y paneles de parcheo. Estos equipos se usan para la distribución y gestión de los servicios de red. Los switches y routers permiten la conexión y gestión de múltiples dispositivos de red, mientras que los paneles de parcheo facilitan la organización y reconfiguración de las conexiones de red. 
+                p Los cuartos técnicos mantienen equipos de red centralizados, como #[i switches], #[i routers] y paneles de parcheo. Estos equipos se usan para la distribución y gestión de los servicios de red. Los #[i switches] y #[i routers] permiten la conexión y gestión de múltiples dispositivos de red, mientras que los paneles de parcheo facilitan la organización y reconfiguración de las conexiones de red. 
               div(titulo="Sistemas de ventilación")
                 p Los cuartos técnicos deben estar equipados con sistemas de ventilación adecuados para asegurar una circulación de aire eficiente y mantener una temperatura óptima para los equipos de red. Los sistemas de ventilación deben estar diseñados para evitar la acumulación de calor y asegurar un funcionamiento eficiente de los equipos de red.    
               div(titulo="Control de temperatura")

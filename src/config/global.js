@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Construyendo la red: implementación de cableado estructurado',
     descripcionCurso:
-      'Este componente aborda la implementación y mantenimiento del cableado estructurado, destacando la importancia de los materiales y herramientas avanzadas, los subsistemas de cableado, y la infraestructura de data centers. Se exploran los estándares de rendimiento y calidad, así como las prácticas de mantenimiento preventivo, resolución de problemas y ampliación de sistemas. ',
+      'Este componente aborda la implementación y mantenimiento del cableado estructurado, destacando la importancia de los materiales y herramientas avanzadas, los subsistemas de cableado, y la infraestructura de <i>data centers</i>. Se exploran los estándares de rendimiento y calidad, así como las prácticas de mantenimiento preventivo, resolución de problemas y ampliación de sistemas. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -118,8 +118,13 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Conclusiones',
+            titulo: 'Sistemas de soporte',
             hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Conclusiones',
+            hash: 't_4_4',
           },
         ],
       },

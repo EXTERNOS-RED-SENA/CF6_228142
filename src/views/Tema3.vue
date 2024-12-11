@@ -67,7 +67,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.my-lg-0.my-3
         .bg10.p-4.brad.h-100
-          p.mb-0 Pruebas de Transmisión de Datos: Utilizar equipos de certificación para verificar que el cableado cumpla con los estándares de categoría (Cat5e, Cat6, Cat6a, etc.) y que pueda soportar las velocidades de transmisión de datos requeridas.
+          p.mb-0 Pruebas de Transmisión de Datos: utilizar equipos de certificación para verificar que el cableado cumpla con los estándares de categoría (Cat5e, Cat6, Cat6a, etc.) y que pueda soportar las velocidades de transmisión de datos requeridas.
 
       .col-lg-4.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/36.png' alt='') 
@@ -75,7 +75,7 @@
 
       .col-lg-4.my-lg-0.my-3
         img.img-t.mb-4(src='@/assets/curso/temas/37.png' alt='') 
-        p #[b Pruebas de Interferencia:] Verificar que el cableado no esté sufriendo interferencias electromagnéticas que puedan afectar el rendimiento de la red.    
+        p #[b Pruebas de Interferencia:] verificar que el cableado no esté sufriendo interferencias electromagnéticas que puedan afectar el rendimiento de la red.    
 
 
     .row.justify-content-start.my-4
@@ -118,12 +118,12 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            span #[b Inspección de ventiladores:] Verificar que los ventiladores y sistemas de ventilación estén funcionando correctamente para asegurar una circulación de aire adecuada.
+            span #[b Inspección de ventiladores:] verificar que los ventiladores y sistemas de ventilación estén funcionando correctamente para asegurar una circulación de aire adecuada.
           hr
           li 
             .lista-ol--cuadro__vineta
               span 2
-            span #[b Control de temperatura:] Monitorear la temperatura en los cuartos técnicos para asegurar que esté dentro de los rangos adecuados y que no haya sobrecalentamiento de los equipos de red.
+            span #[b Control de temperatura:] monitorear la temperatura en los cuartos técnicos para asegurar que esté dentro de los rangos adecuados y que no haya sobrecalentamiento de los equipos de red.
           hr    
 
     Separador 
@@ -148,10 +148,10 @@
         .row.justify-content-center
           .col-lg-6.my-lg-0.my-3
             img.img-t.mb-4(src='@/assets/curso/temas/43.png' alt='')
-            p.mb-0 #[b Identificación del problema:] Utilizar equipos de testeo para identificar el cable dañado y localizar el punto de daño.
+            p.mb-0 #[b Identificación del problema:] utilizar equipos de testeo para identificar el cable dañado y localizar el punto de daño.
           .col-lg-6.my-lg-0.my-3
             img.img-t.mb-4(src='@/assets/curso/temas/44.png' alt='')
-            p.mb-0 #[b Reparación:] Reparar el cable dañado o reemplazarlo por uno nuevo para asegurar la continuidad del servicio de red.
+            p.mb-0 #[b Reparación:] reparar el cable dañado o reemplazarlo por uno nuevo para asegurar la continuidad del servicio de red.
 
       .col-lg-3.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/42.png' alt='')   
@@ -206,12 +206,12 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            span #[b Identificación del problema:] Utilizar herramientas de diagnóstico para identificar problemas de configuración en switches, routers y otros equipos de red.
+            span #[b Identificación del problema:] utilizar herramientas de diagnóstico para identificar problemas de configuración en #[i switches], #[i routers] y otros equipos de red.
           hr
           li 
             .lista-ol--cuadro__vineta
               span 2
-            span #[b Reconfiguración:] Reconfigurar los equipos de red para solucionar problemas de conectividad, rendimiento o seguridad.
+            span #[b Reconfiguración:] reconfigurar los equipos de red para solucionar problemas de conectividad, rendimiento o seguridad.
           hr 
 
     .row.justify-content-start.my-5
@@ -223,7 +223,7 @@
           .list__txt.bgicon.text-white.p-0.px-4
             h3.mb-1 Uso de equipos de testeo y certificación    
 
-    p #[i Identificación y diagnóstico:] Utilizar equipos de testeo y certificación para identificar y diagnosticar problemas de manera precisa. Estos equipos permiten realizar pruebas detalladas del cableado y los equipos de red para localizar y solucionar problemas de manera eficiente.
+    p #[b Identificación y diagnóstico:] utilizar equipos de testeo y certificación para identificar y diagnosticar problemas de manera precisa. Estos equipos permiten realizar pruebas detalladas del cableado y los equipos de red para localizar y solucionar problemas de manera eficiente.
 
     Separador 
 
@@ -247,10 +247,10 @@
         .row.justify-content-center
           .col-lg-6.my-lg-0.my-3
             img.img-t.mb-4(src='@/assets/curso/temas/43.png' alt='')
-            p.mb-0 #[b Evaluación de necesidades:] Evaluar las necesidades de la organización para determinar la cantidad y ubicación de los nuevos puntos de conexión.
+            p.mb-0 #[b Evaluación de necesidades:] evaluar las necesidades de la organización para determinar la cantidad y ubicación de los nuevos puntos de conexión.
           .col-lg-6.my-lg-0.my-3
             img.img-t.mb-4(src='@/assets/curso/temas/44.png' alt='')
-            p.mb-0 #[b Reparación:Instalación:] Instalar nuevos cables y conectores para proporcionar puntos de conexión adicionales en las áreas de trabajo.
+            p.mb-0 #[b Reparación:Instalación:] instalar nuevos cables y conectores para proporcionar puntos de conexión adicionales en las áreas de trabajo.
       .col-lg-3.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/49.png' alt='') 
 
@@ -298,7 +298,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 2
-                span #[b Instalación de nuevos equipos:] Instalar nuevos switches, routers y otros equipos de red para mejorar el rendimiento y la capacidad de la infraestructura de red.
+                span #[b Instalación de nuevos equipos:] Instalar nuevos #[i switches], #[i routers] y otros equipos de red para mejorar el rendimiento y la capacidad de la infraestructura de red.
               hr               
           .col-lg-4.my-lg-0.my-3
             img.img-a.img-t(src='@/assets/curso/temas/52.png' alt='') 

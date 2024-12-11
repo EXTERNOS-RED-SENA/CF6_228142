@@ -39,7 +39,7 @@
           .col-lg-auto.j1
             img.img-a.img-t(src='@/assets/curso/temas/11.png' alt='')
           .col.pt-lg-0.pt-md-4
-            p.mb-0 Los conectores RJ-45 son dispositivos de conexión utilizados en redes de telecomunicaciones y redes de datos. El término "RJ-45" se refiere a un tipo específico de conector modular que se utiliza principalmente para conectar cables de par trenzado (twisted pair) a equipos de red, como routers, switches, computadoras y otros dispositivos de red. La siguiente tabla describe los conectores RJ-45.        
+            p.mb-0 Los conectores RJ-45 son dispositivos de conexión utilizados en redes de telecomunicaciones y redes de datos. El término "RJ-45" se refiere a un tipo específico de conector modular que se utiliza principalmente para conectar cables de par trenzado (#[i twisted pair]) a equipos de red, como #[i routers, switches], computadoras y otros dispositivos de red. La siguiente tabla describe los conectores RJ-45.        
       .col-lg-3.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/10.png' alt='')  
 
@@ -68,7 +68,7 @@
 
               tr
                 td.fast-bold.bgt1 Compatibilidad
-                td Los conectores RJ-45 son compatibles con varios estándares de cableado, incluyendo Cat5e, Cat6 y Cat6a, que son utilizados en redes #[i Ethernet*] para proporcionar velocidades de transmisión de datos de hasta 10 Gbps.   
+                td Los conectores RJ-45 son compatibles con varios estándares de cableado, incluyendo Cat5e, Cat6 y Cat6a, que son utilizados en redes #[i Ethernet] para proporcionar velocidades de transmisión de datos de hasta 10 Gbps.   
 
               tr
                 td.fast-bold.bgt1 Uso común
@@ -82,7 +82,7 @@
                 .list__item__icon
                   img(src='@/assets/curso/temas/icon.svg', alt='')
               .list__txt.bgicon.text-white.p-0.px-4
-                h3.mb-1 Soluciones para errores de mapeo       
+                h3.mb-1 Tipo de conectores RJ-45       
         .row.justify-content-center
           .col-lg-3.d-none.d-lg-block.j1 
             img.img-a.img-t(src='@/assets/curso/temas/14.png', alt='')

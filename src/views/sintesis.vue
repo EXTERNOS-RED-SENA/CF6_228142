@@ -18,7 +18,7 @@
           .col.pt-lg-0.pt-md-4
             p.mb-0 En el origen del diagrama se encuentran los conceptos principales de red y cableado estructurado, de los cuales se despliegan cuatro áreas fundamentales:  materiales, subsistemas, mantenimientos y data center fundamentos, importación de datos, técnicas de transformación, herramientas y mejores prácticas. Cada una de estas áreas se desglosa en subtemas clave, reflejando la estructura y el contenido del componente, desde los conceptos básicos hasta las aplicaciones prácticas y tendencias actuales.
         
-    p.mb-5 El diagrama identifica y explica los componentes clave del cableado estructurado y los data centers, como los equipos de testeo y certificación, el cableado horizontal y vertical, las áreas de trabajo y cuartos técnicos, junto los sistemas de soporte en los data centers. Esto permite a los aprendices entender la importancia y el papel de cada componente en la infraestructura de red.
+    p.mb-5 El diagrama identifica y explica los componentes clave del cableado estructurado y los #[i data centers], como los equipos de testeo y certificación, el cableado horizontal y vertical, las áreas de trabajo y cuartos técnicos, junto los sistemas de soporte en los #[i data centers]. Esto permite a los aprendices entender la importancia y el papel de cada componente en la infraestructura de red.
 
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
