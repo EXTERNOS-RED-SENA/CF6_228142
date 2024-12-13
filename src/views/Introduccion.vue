@@ -36,7 +36,7 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/HOywmTyIIiI?si=vsSZWzBRplB0Q7_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/j48f_9-zpyY?si=jeoM4_TGf8G_qvcV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
 </template>
 
